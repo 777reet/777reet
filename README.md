@@ -39,12 +39,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harreetkaur&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harreetkaur&layout=compact&theme=github_dark&hide_border=true" height="150" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harreetkaur&theme=github-dark&hide_border=true" width="95%" />
+<img src="https://ghchart.rshah.org/238636/777reet" alt="777reet's Github Contribution Chart" width="100%" />
 
 <br/><br/>
 
